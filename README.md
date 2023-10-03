@@ -29,10 +29,14 @@ The details of the data preparation and cleaning process are given in the attach
 
 ## Analysis
 
+The following graphs can be found on my Tableau Public page: https://public.tableau.com/views/CyclisticCaseStudyGraphs/Tripdurationperdashboard?:language=en-US&:display_count=n&:origin=viz_share_link
+
+### Type of Bike
 ![Type Of Bike Dashboard](https://github.com/dtbesson/Cyclistic-Google-Data-Project/assets/92056999/2d76e6f3-d98c-4ee8-a03a-e368304d8473)
 
 We can see that despite the recent emergence of electric bikes, classic bikes still remain the favourite. Casual users are slightly more likely to use electric bikes compared to members. However, this difference is small and no strong conclusions can be drawn.
 
+### Number of Trips
 ![Trips Per Dashboard](https://github.com/dtbesson/Cyclistic-Google-Data-Project/assets/92056999/3eeb8a64-2b85-4c6b-9c62-d77e64341bcb)
 
 There is a big spike in usage amongst casual users on the weekends, particularly on Saturdays. On the other hand, members usage is consistent throughout the week, even seeing a slight decrease on the weekends. This suggests that casual users and members use Cyclistic bikes for different purposes. Members are more likely to use them for commutes to work, whereas casual users are more likely to use them for leisure on the weekends.
@@ -40,6 +44,8 @@ There is a big spike in usage amongst casual users on the weekends, particularly
 It comes as no surprise that the overall number of trips is much higher in the summer and lower in the winter. However, the curve for casual users has higher peaks and lower troughs than the curve for members. This may be because members have paid for an annual membership, and want to get their money's worth, regardless of the weather. Casual users have greater incentive to hire a bike when the weather is good.
 
 There is a dramatic spike in usage around 5PM daily. This coincides with the time of day that people start to come home from work. Both members and casual members use Cyclistic bikes more around this time of day. However, the spike is slightly larger for members. There is another spike in usage around 8AM, but only for members. Again, this supports the notion that members use the bikes more for commuting purposes. It is also important to note that casual users use them for commuting purposes as well, but much more in the evening than the morning.
+
+### Trip Durations
 
 ![Trip Duration Per Dashboard](https://github.com/dtbesson/Cyclistic-Google-Data-Project/assets/92056999/1594445a-3b0a-4cb2-99ed-a540e4df6cf8)
 
